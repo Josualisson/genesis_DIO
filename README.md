@@ -1,2 +1,6 @@
 # genesis_DIO
-Recriando jogo genesis com js, html e css
+## Recriando jogo genesis.
+#### Tecnologias usadas:
+ - Html
+ - CSS
+ - Javascript
